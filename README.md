@@ -3,7 +3,7 @@ in this project i was about studying classical machine learning models by creati
 
 in this case i'm taking dataset containing human faces photographs where they were asked to show 7 emotions -> preparing it for machine learning methods (cropping, augmentation, histogram equalization) -> extracting gabor features -> applying PCA+LDA combo -> using some basic ml models (dt, rf, adaboost, gradient boosting, svm, knn and naive bayes) 
 
-![photo-emotion](https://github.com/whyclos/emotion-recognition/raw/main/1.png)
+![photo-emotion](https://github.com/whyclos/emotion-recognition/raw/main/gabor-filters.png)
 
 ## sharing the dataset 
 folder with images you can download [here](https://drive.google.com/drive/folders/1WNOIE0lshN97fioiFPMMkeEAUn5iunb8?usp=share_link)
