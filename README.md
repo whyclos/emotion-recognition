@@ -7,4 +7,4 @@ folder with images you can download [here](https://drive.google.com/drive/folder
 
 [here](https://docs.google.com/spreadsheets/d/1fqFqaDujaNYzPwFPxgRbHiPfUAyxSBer/edit?usp=share_link&ouid=115557877886304897153&rtpof=true&sd=true) is labeled dataset as .xlsx file as a *label* - *filename* table 
 
-the only problem about dataset used is disbalance in quantity of photoghaphs in different emotions samples (there are much more examples in neutral lable) and that is why i used augmentation
+the only problem about dataset used is disbalance in quantity of photoghaphs in different emotions samples (there are much more neutral examples) and that is why i used augmentation
